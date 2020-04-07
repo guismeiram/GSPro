@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {}
+    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {
+    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
+        "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
         "projectName": "DevIO.Bussines",
-        "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
+        "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
         "packagesPath": "C:\\Users\\mende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\obj\\",
+        "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

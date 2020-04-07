@@ -9,6 +9,7 @@ C:\Users\mende\OneDrive\Área de Trabalho\GSPro\DevIO.Bussines\obj\Debug\netcore
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.deps.json
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.dll
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.pdb
+C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.csprojAssemblyReference.cache
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.csproj.CoreCompileInputs.cache
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.AssemblyInfoInputs.cache
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.AssemblyInfo.cs

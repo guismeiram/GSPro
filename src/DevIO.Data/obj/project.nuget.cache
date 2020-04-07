@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8+z3aJUuEKk2lZtyh1eYvl8Rg+36+HchbHFzT1IY1ylE2JI3YG9wJ+xshKIPXl4ZWhOxbXOcJtdlnX26doIcA==",
+  "dgSpecHash": "Nu5yyRNpktyYqYYAhHWdio87npz/JfP4WH8ORx7vZR9ncP4xu7/3yP4ypQOyJ8mkjww8L0YaL6zIQigUfQNMsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
+  "projectFilePath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mende\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\mende\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

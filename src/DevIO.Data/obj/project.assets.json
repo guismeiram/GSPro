@@ -4904,11 +4904,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
       "projectName": "DevIO.Data",
-      "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
       "packagesPath": "C:\\Users\\mende\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\obj\\",
+      "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4927,8 +4927,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {
-              "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj"
+            "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {
+              "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj"
             }
           }
         }

@@ -24,7 +24,7 @@ namespace DevIO.App.ViewModels
         [StringLength(1000, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres", MinimumLength = 2)]
         public String NumeroProcesso { get; set; }
 
-        [DisplayName("Nome do Usuario")]
+        [DisplayName("Data de Criação")]
         public DateTime DataCriacaoProcesso { get; set; }
 
         [DisplayName("Tipo Processo")]

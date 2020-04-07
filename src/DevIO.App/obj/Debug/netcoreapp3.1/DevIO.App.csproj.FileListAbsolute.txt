@@ -156,6 +156,9 @@ C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcorea
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\DevIO.Bussines.pdb
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.csprojAssemblyReference.cache
+C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.csproj.CoreCompileInputs.cache
+C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.RazorAssemblyInfo.cache
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.RazorAssemblyInfo.cs
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.AssemblyInfoInputs.cache
@@ -186,14 +189,3 @@ C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcorea
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.dll
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.pdb
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.genruntimeconfig.cache
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\Thinktecture.IdentityModel.dll
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.csproj.CoreCompileInputs.cache
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cache

@@ -1,13 +1,15 @@
-﻿using AutoMapper;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Threading.Tasks;
+using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
 using DevIO.App.ViewModels;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using DevIO.Bussines.interfaces;
 using DevIO.Bussines.models;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using Thinktecture.IdentityModel.Authorization.Mvc;
+using DevIO.App.Extensions;
 
 namespace DevIO.App.Controllers
 {
@@ -45,7 +47,6 @@ namespace DevIO.App.Controllers
             return View(siatiViewModel);
         }
 
-        [ClaimsAuthorize("Siati", "Adicionar")]
         [Route("novo-siati")]
         // GET: Siati/Create
         public IActionResult Create()
@@ -53,12 +54,11 @@ namespace DevIO.App.Controllers
             return View();
         }
 
-        [ClaimsAuthorize("Siati", "Adicionar")]
         [Route("novo-siati")]
         [HttpPost]
         public async Task<IActionResult> Create(SiatiViewModel siatiViewModel)
         {
-            if (!ModelState.IsValid) return View(siatiViewModel);
+            //if (!ModelState.IsValid) return View(siatiViewModel);
 
             var siati = _mapper.Map<Siati>(siatiViewModel);
             await _repository.Adicionar(siati);
@@ -66,7 +66,6 @@ namespace DevIO.App.Controllers
             return RedirectToAction(actionName: nameof(Index));
         }
 
-        [ClaimsAuthorize("Siati", "Editar")]
         [Route("editar-siati/{id:guid}")]
         // GET: Siati/Edit/5
         public async Task<IActionResult> Edit(Guid id)
@@ -79,7 +78,6 @@ namespace DevIO.App.Controllers
             return View(siatiViewModel);
         }
 
-        [ClaimsAuthorize("Siati", "Editar")]
         [Route("editar-siati/{id:guid}")]
         [HttpPost]
         public async Task<IActionResult> Edit(Guid id, SiatiViewModel siatiViewModel)
@@ -87,10 +85,10 @@ namespace DevIO.App.Controllers
             if (id != siatiViewModel.Id) return NotFound();
 
             var siatiAtualizacao = await _repository.ObterPorId(id);
-            
+
             if (!ModelState.IsValid) return View(siatiViewModel);
 
-            
+
             siatiAtualizacao.NomeProcesso = siatiViewModel.NomeProcesso;
             siatiAtualizacao.NomeUser = siatiViewModel.NomeUser;
             siatiAtualizacao.NumeroProcesso = siatiViewModel.NumeroProcesso;
@@ -105,7 +103,6 @@ namespace DevIO.App.Controllers
             return RedirectToAction("Index");
 
         }
-        [ClaimsAuthorize("Siati", "Excluir")]
         [Route("excluir-siati/{id:guid}")]
         // GET: Siati/Delete/5
         public async Task<IActionResult> Delete(Guid id)
@@ -115,7 +112,6 @@ namespace DevIO.App.Controllers
             return View(siatiViewModel);
         }
 
-        [ClaimsAuthorize("Siati", "Excluir")]
         [Route("excluir-siati/{id:guid}")]
         [HttpPost, ActionName("Delete")]
         public async Task<IActionResult> DeleteConfirmed(Guid id)
@@ -128,26 +124,6 @@ namespace DevIO.App.Controllers
 
             return RedirectToAction("Index");
 
-        }
-
-       /* [HttpPost]
-        public async Task<IActionResult> ExportExcel(IFormFile file)
-        {
-            FileDetails fileDetails;
-            using (var reader = new StreamReader(file.OpenReadStream()))
-            {
-                var fileContent = reader.ReadToEnd();
-                var parsedContentDisposition = ContentDispositionHeaderValue.Parse(file.ContentDisposition);
-                fileDetails = new FileDetails
-                {
-                    FileName  = parsedContentDisposition.FileName,
-                    Content = fileContent
-                };
-            }
-
-            return fileDetails;
-
-            //return View();
-        }*/
+        }     
     }
 }

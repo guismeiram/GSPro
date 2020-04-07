@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.App\\DevIO.App.csproj": {}
+    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.App\\DevIO.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.App\\DevIO.App.csproj": {
+    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.App\\DevIO.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.App\\DevIO.App.csproj",
+        "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.App\\DevIO.App.csproj",
         "projectName": "DevIO.App",
-        "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.App\\DevIO.App.csproj",
+        "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.App\\DevIO.App.csproj",
         "packagesPath": "C:\\Users\\mende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.App\\obj\\",
+        "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj": {
-                "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj"
+              "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj": {
+                "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj"
               }
             }
           }
@@ -52,10 +52,6 @@
             "EPPlus": {
               "target": "Package",
               "version": "[5.0.4, )"
-            },
-            "Microsoft.AspNet.Mvc": {
-              "target": "Package",
-              "version": "[5.2.7, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -85,10 +81,6 @@
               "target": "Package",
               "version": "[3.1.1, )"
             },
-            "Thinktecture.IdentityModel": {
-              "target": "Package",
-              "version": "[3.6.1, )"
-            },
             "contentful.csharp": {
               "target": "Package",
               "version": "[4.4.0, )"
@@ -116,14 +108,14 @@
         }
       }
     },
-    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {
+    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
+        "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
         "projectName": "DevIO.Bussines",
-        "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
+        "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj",
         "packagesPath": "C:\\Users\\mende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\obj\\",
+        "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -171,14 +163,14 @@
         }
       }
     },
-    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\DevIO.Data.csproj",
         "packagesPath": "C:\\Users\\mende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Data\\obj\\",
+        "outputPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -197,8 +189,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {
-                "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro-Sabesp\\.vs\\GSPro-Sabesp\\v16\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj"
+              "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj": {
+                "projectPath": "C:\\Users\\mende\\OneDrive\\Área de Trabalho\\GSPro\\src\\DevIO.Bussines\\DevIO.Bussines.csproj"
               }
             }
           }
