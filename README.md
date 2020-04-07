@@ -1,7 +1,7 @@
 # GSPro
 GSPro(Gestor de Siatis)
 
-O projeto foi criado, a partir da necessidade de gerar soluções da Área de Produção.
+O projeto foi criado, a partir da necessidade de gerar soluções para Área de Produção.
 
 O projeto foi feito, utilizando métodos e ferramentas da seguinte maneira.
 -Camada de DevIO.Bussines é constituída , por Interfaces(Nesta pasta foi criada assinatura de métodos, 
