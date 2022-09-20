@@ -15,3 +15,22 @@ C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\obj\Debug\net
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.AssemblyInfo.cs
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.dll
 C:\Users\mende\OneDrive\Área de Trabalho\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.pdb
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.deps.json
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.dll
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.pdb
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.csprojAssemblyReference.cache
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.AssemblyInfoInputs.cache
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.AssemblyInfo.cs
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.dll
+C:\Users\mende\OneDrive\Área de Trabalho\Estudos\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.pdb
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.deps.json
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.dll
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\bin\Debug\netcoreapp3.1\DevIO.Bussines.pdb
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.csproj.AssemblyReference.cache
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.AssemblyInfoInputs.cache
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.AssemblyInfo.cs
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.dll
+C:\Users\boral\OneDrive\Área de Trabalho\Nova pasta\GSPro\GSPro\src\DevIO.Bussines\obj\Debug\netcoreapp3.1\DevIO.Bussines.pdb
